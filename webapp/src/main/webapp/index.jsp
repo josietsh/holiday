@@ -1,8 +1,6 @@
-<h1> Hello, Welcome to Simple DevOps Project Josiane !! </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad you made it this far </h2>
-<h2> I have been strugling for the past 5 months to make my way into the IT field </h2>
-<h2> I have no regrets and this is the best decision I have ever made in my life </h2>
-<h1> If you see this, I made it through the Devops Pipeline <h1> 
-
-<h1>This is the new chnage added to the code to visualize another deployment </h1>
+<h1> Happy Holidays and all the best to you in the year to come </h1>
+<h2> Good tidings we bear to you and your family! May we all have a Merry Christmas. </h2>
+<h2> Peace, love and harmony we wish to you and may love fill your home with blessings too. Happy Holidays </h2>
+<h2> We hope your holidays will be filled with joy and laughter through the New Year. Merry Christmas! </h2>
+<h1>Best Wishes from the DevOps Family at DSG!! Oh Oh Oh </h1>
+<p>&#128516;</p>
