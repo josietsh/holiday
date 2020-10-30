@@ -4,5 +4,3 @@
 <h2> We hope your holidays will be filled with joy and laughter through the New Year. Merry Christmas! </h2> 
 <h1>Best Wishes from the DevOps team at DSG. </h1>
 
-<meta charset="UTF-8">
-<p>&#128516;</p>
